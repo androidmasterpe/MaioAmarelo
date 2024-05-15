@@ -6,7 +6,7 @@ const EventosScreen = () => {
     <ScrollView style={styles.container}>
       <Text style={styles.title}>Eventos e Atividades</Text>
       <Text style={styles.text}>
-        Confira os eventos e atividades do Maio Amarelo em sua região...
+        Confira todos os eventos e atividades do Maio Amarelo em sua região...
       </Text>
       {/* Adicione uma lista de eventos com detalhes */}
     </ScrollView>
